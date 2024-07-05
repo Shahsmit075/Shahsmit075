@@ -1,0 +1,21 @@
+{
+  "name": "smit",
+  "version": "0.0.0",
+  "description": "just my intro",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": ["cli.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahsmit075/Shahsmit075.git"
+  },
+  "keywords": [
+    "aboutme"
+  ],
+  "author": "Smit Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahsmit075/Shahsmit075/issues"
+  },
+  "homepage": "https://github.com/Shahsmit075/Shahsmit075#readme"
+}
