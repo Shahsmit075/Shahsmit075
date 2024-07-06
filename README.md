@@ -7,12 +7,12 @@
 
 <h2>GitHub Stats</h2>
 <details>
-<summary> 
+<h3> 
 My Github Stats
-</summary>
+</h3>
 
+![Smit's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=el-47&show_icons=true&theme=dark&locale=en&layout=compact)
 ![Smit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shahsmit075&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
 
 </details>
 
