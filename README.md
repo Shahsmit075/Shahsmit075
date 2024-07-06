@@ -37,4 +37,4 @@ My Github Stats
 
 <h2>Currently Learning...🚀</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,redis,kafka,nginx,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,kafka,nginx,redis)](https://skillicons.dev)
