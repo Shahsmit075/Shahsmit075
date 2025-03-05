@@ -1,3 +1,5 @@
+![](https://activity-graph.herokuapp.com/graph?username=Shahsmit075&theme=react-dark&hide_border=true&area=true)
+
 <h1>Hi 👋</h1>
 <h2>I'm Smit Shah</h2>
 <h4 >
