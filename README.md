@@ -1,57 +1,169 @@
-![](https://activity-graph.herokuapp.com/graph?username=Shahsmit075&theme=react-dark&hide_border=true&area=true)
+<div align="center">
+  <h1>
+    Hi there, I'm Smit Shah 👋
+  </h1>
+  <h3>
+    A Full-Stack Developer passionate about building scalable, high-performance web applications.
+  </h3>
 
-<h1>Hi 👋</h1>
-<h2>I'm Smit Shah</h2>
-<h4 >
-  "I am passionate about creating, experimenting with, and developing web technologies. I enjoy diving deep into coding, breaking down complex problems, and constantly learning to innovate in the digital space."
-</h4>
+  <p align="center">
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/shahsmit/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:dev.shahsmit@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://leetcode.com/imdaotfmfaobfiwsnmahhjg/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/user_alpha/" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksForGeeks-95d877?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksForGeeks">
+    </a>
+  </p>
+</div>
 
-<h2> About Me <img src = "https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width = 100px height='50px'></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### About Me
+- 🎓  B.Tech in CSE at **IIIT Vadodara** (2022 - 2026).
+- 💼  Currently a **Software Developer Intern** at [<img src="https://github.com/user-attachments/assets/37e6adcd-6106-45cf-b6b8-b511b1c911eb" alt="Description" width="2%" height="1%">
+LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contributing to impactful social-tech.
+- 💡  I love diving deep into system design, optimizing database performance, and building robust, maintainable code.
+- 🌱  Actively exploring advanced backend architectures, cloud-native technologies, and machine learning applications.
+---
+
+### 🛠️ My Technical Toolkit
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Frontend Development</h4>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Backend Development</h4>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,ts,py" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Databases & ORMs</h4>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4>DevOps & Tools</h4>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,git,gcp,postman,linux" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+### 📊 My GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahsmit075&show_icons=true&hide_title=true&count_private=true&theme=github_dark" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-47&show_icons=true&theme=github_dark&layout=compact" width="28%" />
+</div>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahsmit075&theme=github_dark" width="73%" align="center" height="100%" alt="Smit Shah's GitHub Stats" />
+</div>
 
 
 
-- 🎓 B.Tech in CSE at IIITV ...
-
-- 🔭 I’m currently working on Learning Full Stack Development.
-- ❓ Ask me about anything related to MERN stack , DevOPS and DSA....  
 
 
-- 👯 I`m looking to collaborate on *Development*
+<h1>🚀 My Projects </h1>
+<img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="250" align="left"/>
+<div align="right">
+<a href="https://github.com/Shahsmit075/koalayst" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=koalayst&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%" />
+</a>
+<a href="https://github.com/Shahsmit075/Butterfly_Identification" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Butterfly_Identification&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%"  />
+</a>
+<a href="https://github.com/Shahsmit075/PodVerse" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=podverse&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%"  />
+</a>
+<a href="https://github.com/Shahsmit075/paytm_v1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=paytm_v1&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%"  />
+</a>
+</div>
+<h1 align="left">🌱 My Growth & Learning </h1>
+<div align="right">
+</div>
+<div align="left" width="100%">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=aws" alt="Cloud & DevOps" width="60" height="60" />
+        <br>
+        <b>Cloud & DevOps</b>
+        <br>
+        <!-- <small>Deepening my knowledge of CI/CD, containerization, and cloud services on GCP & AWS.</small> -->
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="60" height="60" />
+        <br>
+        <b>Next-Gen Backends</b>
+        <br>
+        <!-- <small>Exploring advanced backend frameworks like NextJS for enterprise-level applications.</small> -->
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="60" height="60" />
+        <br>
+        <b>Message Brokers</b>
+        <br>
+        <!-- <small>Learning Apache Kafka for building robust, event-driven microservices.</small> -->
+      </td>
+      <td align="center" width="25%">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="System Design" width="60" height="60" />
+        <br>
+        <b>Advanced System Design</b>
+        <br>
+        <!-- <small>Mastering patterns for building highly scalable and resilient distributed systems.</small> -->
+      </td>
+    </tr>
+  </table>
+</div>
 
-  
-- 📫 How to reach me *shahsmit075@gmail.com*
+---
+
+## 🏆 Certifications & Programs
+- Amazon ML Summer School Program 2024: Machine Learning, Python
+- Oracle Cloud Infrastructure Gen AI Course: Cloud (OCI), Artificial Intelligence
+- NVIDIA - Fundamentals of Deep Learning: Deep Learning Frameworks, Python
+- Google Cloud Pathway: Google Cloud Platform (GCP), Cloud Concepts
+---
+
+# 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects or discussing new technologies. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahsmit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 
-<h2>GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'> </h2>
-<h3> 
-My Github Stats
-</h3>
 
-![Smit's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=el-47&show_icons=true&theme=dark&locale=en&layout=compact)
-![Smit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shahsmit075&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
-
-
-
-<h2>Languages</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,java)](https://skillicons.dev)
-
-<h2>Frameworks</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,express,nodejs,react,vite)](https://skillicons.dev)
-
-<h2>Databases</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres,prisma)](https://skillicons.dev)
-
-<h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,cloudflare,gcp,aws,postman)](https://skillicons.dev)
-
-
-<h2>Currently Learning...🚀</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,kafka,nginx,redis)](https://skillicons.dev)
