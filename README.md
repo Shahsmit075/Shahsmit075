@@ -104,7 +104,7 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
 </div>
 
 ---
-<h2 align="left">🌱 My Growth & Learning </h2>
+<h2>🌱 My Growth & Learning </h2>
 <div align="right">
 </div>
 <div align="left" width="100%">
