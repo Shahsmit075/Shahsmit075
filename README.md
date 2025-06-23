@@ -85,6 +85,7 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahsmit075&theme=github_dark" width="73%" align="center" height="100%" alt="Smit Shah's GitHub Stats" />
 </div>
+
 ---
 <h1>🚀 My Projects </h1>
 <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="250" align="left"/>
@@ -102,6 +103,7 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=PayPruf-Payment-Application-&theme=github_dark&hide_border=false" alt="PayPruf Repository" height="50%" width="33%"  />
 </a>
 </div>
+
 ---
 <h1 align="left">🌱 My Growth & Learning </h1>
 <div align="right">
@@ -140,16 +142,13 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
     </tr>
   </table>
 </div>
-
 ---
-
 ## 🏆 Certifications & Programs
 - Amazon ML Summer School Program 2024: Machine Learning, Python
 - Oracle Cloud Infrastructure Gen AI Course: Cloud (OCI), Artificial Intelligence
 - NVIDIA - Fundamentals of Deep Learning: Deep Learning Frameworks, Python
 - Google Cloud Pathway: Google Cloud Platform (GCP), Cloud Concepts
 ---
-
 # 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects or discussing new technologies. Feel free to reach out!
