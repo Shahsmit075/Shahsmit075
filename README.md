@@ -26,15 +26,14 @@
 </div>
 
 ---
-
 ### About Me
 - 🎓  B.Tech in CSE at **IIIT Vadodara** (2022 - 2026).
 - 💼  Currently a **Software Developer Intern** at [<img src="https://github.com/user-attachments/assets/37e6adcd-6106-45cf-b6b8-b511b1c911eb" alt="Description" width="2%" height="1%">
 LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contributing to impactful social-tech.
 - 💡  I love diving deep into system design, optimizing database performance, and building robust, maintainable code.
 - 🌱  Actively exploring advanced backend architectures, cloud-native technologies, and machine learning applications.
----
 
+---
 ### 🛠️ My Technical Toolkit
 
 <table align="center">
@@ -87,7 +86,7 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
 </div>
 
 ---
-<h1>🚀 My Projects </h1>
+<h2>🚀 My Projects </h2>
 <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="250" align="left"/>
 <div align="right">
 <a href="https://github.com/Shahsmit075/koalayst" target="_blank">
@@ -105,7 +104,7 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
 </div>
 
 ---
-<h1 align="left">🌱 My Growth & Learning </h1>
+<h2 align="left">🌱 My Growth & Learning </h2>
 <div align="right">
 </div>
 <div align="left" width="100%">
@@ -142,6 +141,7 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
     </tr>
   </table>
 </div>
+
 ---
 ## 🏆 Certifications & Programs
 - Amazon ML Summer School Program 2024: Machine Learning, Python
