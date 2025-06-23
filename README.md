@@ -85,27 +85,24 @@ LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contri
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahsmit075&theme=github_dark" width="73%" align="center" height="100%" alt="Smit Shah's GitHub Stats" />
 </div>
-
-
-
-
-
+---
 <h1>🚀 My Projects </h1>
 <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="250" align="left"/>
 <div align="right">
 <a href="https://github.com/Shahsmit075/koalayst" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=koalayst&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=koalayst&theme=github_dark&hide_border=false" alt="Koalayst Repository" height="50%" width="33%" />
 </a>
 <a href="https://github.com/Shahsmit075/Butterfly_Identification" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Butterfly_Identification&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%"  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Butterfly_Identification&theme=github_dark&hide_border=false" alt="Butterfly Identification Repository" height="50%" width="33%"  />
 </a>
 <a href="https://github.com/Shahsmit075/PodVerse" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=podverse&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%"  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=podverse&theme=github_dark&hide_border=false" alt="PodVerse Repository" height="50%" width="33%"  />
 </a>
-<a href="https://github.com/Shahsmit075/paytm_v1" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=paytm_v1&theme=tokyonight&hide_border=false" alt="Koalayst Repository" height="50%" width="33%"  />
+<a href="https://github.com/Shahsmit075/PayPruf-Payment-Application-" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=PayPruf-Payment-Application-&theme=github_dark&hide_border=false" alt="PayPruf Repository" height="50%" width="33%"  />
 </a>
 </div>
+---
 <h1 align="left">🌱 My Growth & Learning </h1>
 <div align="right">
 </div>
