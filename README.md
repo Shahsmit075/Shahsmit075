@@ -7,7 +7,7 @@
   </h3>
 
   <p align="center">
-    <a href="" target="_blank">
+    <a href="https://rebrand.ly/smitshah" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/shahsmit/" target="_blank">
