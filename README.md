@@ -16,12 +16,12 @@
     <a href="mailto:dev.shahsmit@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://leetcode.com/imdaotfmfaobfiwsnmahhjg/" target="_blank">
+<!--     <a href="https://leetcode.com/imdaotfmfaobfiwsnmahhjg/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
     </a>
     <a href="https://www.geeksforgeeks.org/user/user_alpha/" target="_blank">
       <img src="https://img.shields.io/badge/GeeksForGeeks-95d877?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksForGeeks">
-    </a>
+    </a> -->
   </p>
 </div>
 
