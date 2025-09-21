@@ -63,6 +63,9 @@
     </td>
   </tr>
 </table>
+
+--- 
+
 ### 📊 My GitHub Activity
 
 <p align="center">
@@ -83,17 +86,17 @@
 </p>
 
 <p align="right">
+  <a href="https://github.com/Shahsmit075/Kinetiq">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Kinetiq&theme=github_dark&hide_border=false" width="33%" />
+  </a>
   <a href="https://github.com/Shahsmit075/koalayst">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=koalayst&theme=github_dark&hide_border=false" width="33%" />
-  </a>
-  <a href="https://github.com/Shahsmit075/Butterfly_Identification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Butterfly_Identification&theme=github_dark&hide_border=false" width="33%" />
   </a>
   <a href="https://github.com/Shahsmit075/PodVerse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=PodVerse&theme=github_dark&hide_border=false" width="33%" />
   </a>
-  <a href="https://github.com/Shahsmit075/PayPruf-Payment-Application-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=PayPruf-Payment-Application-&theme=github_dark&hide_border=false" width="33%" />
+  <a href="https://github.com/Shahsmit075/Butterfly_Identification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Butterfly_Identification&theme=github_dark&hide_border=false" width="33%" />
   </a>
 </p>
 
