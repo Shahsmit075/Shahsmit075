@@ -1,26 +1,16 @@
-<h1 align="center">Hi there, I'm Smit Shah 👋</h1>
-<h3 align="center">A Full-Stack Developer passionate about building scalable, high-performance web applications.</h3>
 
-<p align="center">
-  <a href="https://rebrand.ly/smitshah">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahsmit/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dev.shahsmit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Smit Shah</h1>
+<h3 align="center">Full-Stack Developer | Data Engineering Enthusiast | AI/ML Explorer</h3>
 
 ---
 
-### 👨‍💻 About Me
+<h2> 👨‍💻 About Me </h2>
 
-- 🎓 B.Tech in CSE at **IIIT Vadodara** (2022 - 2026).
-- 💼 Currently a **Software Developer Intern** at [LIEF CARE](https://www.lief.care/), engineering scalable backend APIs and contributing to impactful social-tech.
-- 💡 I love diving deep into system design, optimizing database performance, and building robust, maintainable code.
-- 🌱 Actively exploring advanced backend architectures, cloud-native technologies, and machine learning applications.
+🎓 B.Tech in Computer Science at **IIIT Vadodara** (2022 - 2026)  
+💼 Building scalable backend systems and exploring data-driven solutions  
+🔭 Currently diving deep into **Data Engineering**, **GenAI**, and **ML Engineering**  
+💡 Passionate about system design, distributed architectures, and building impactful tech
+
 
 ---
 ### 🛠️ My Technical Toolkit
@@ -39,7 +29,7 @@
       <h4>Backend Development</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,ts,py" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,py" />
         </a>
       </p>
     </td>
@@ -49,7 +39,7 @@
       <h4>Databases & ORMs</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,cassandra" />
         </a>
       </p>
     </td>
@@ -57,51 +47,26 @@
       <h4>DevOps & Tools</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,git,gcp,postman,linux" />
+          <img src="https://skillicons.dev/icons?i=docker,linux,kafka" />
         </a>
       </p>
     </td>
   </tr>
+  <tr>
+   <td valign="top" width="100%" colspan="2">
+    <h4>Data Engineering & ML</h4>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
+      </a>
+    </p>
+    </td>
+  </tr>
 </table>
 
---- 
-
-### 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahsmit075&show_icons=true&hide_title=true&count_private=true&theme=github_dark" width="43%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-47&show_icons=true&theme=github_dark&layout=compact" width="28%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahsmit075&theme=github_dark" width="73%" alt="GitHub Summary Card" />
-</p>
-
 ---
 
-### 🚀 My Projects
-
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="200" align="left" />
-</p>
-
-<p align="right">
-  <a href="https://github.com/Shahsmit075/Kinetiq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Kinetiq&theme=github_dark&hide_border=false" width="33%" />
-  </a>
-  <a href="https://github.com/Shahsmit075/koalayst">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=koalayst&theme=github_dark&hide_border=false" width="33%" />
-  </a>
-  <a href="https://github.com/Shahsmit075/PodVerse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=PodVerse&theme=github_dark&hide_border=false" width="33%" />
-  </a>
-  <a href="https://github.com/Shahsmit075/Butterfly_Identification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahsmit075&repo=Butterfly_Identification&theme=github_dark&hide_border=false" width="33%" />
-  </a>
-</p>
-
----
-<h2>🌱 My Growth & Learning </h2>
+### 🌱 Growth & Learning
 <div align="right">
 </div>
 <div align="left" width="100%">
@@ -142,6 +107,22 @@
 
 ---
 
+<h2> 🚀 My Projects </h2>
+
+<p align="center">
+
+**[Kinetiq](https://github.com/Shahsmit075/Kinetiq)** — Distributed Event Booking System
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
+
+**[Koalayst](https://github.com/Shahsmit075/koalayst)** — Monitor, analyze, and receive real-time notifications for your SaaS application directly in Discord.
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+
+</p>
+
+<p align="right"><a href="https://github.com/Shahsmit075?tab=repositories"><sub>View all projects →</sub></a></p>
+
+---
+
 ## 🏆 Certifications & Programs
 
 - Amazon ML Summer School Program 2024: Machine Learning, Python  
@@ -151,10 +132,9 @@
 
 ---
 
-## 🤝 Let's Connect
+### 📫 Let's Connect
 
-I'm always open to collaborating on interesting projects or discussing new technologies.  
-Feel free to reach out!
+Open to collaborating on data engineering projects, backend systems, or AI/ML initiatives.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahsmit/">
@@ -165,3 +145,4 @@ Feel free to reach out!
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </p>
+
