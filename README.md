@@ -1,64 +1,73 @@
-
 <h1 align="center">Hi, I'm Smit Shah</h1>
-<h3 align="center">Full-Stack Developer | Data Engineering Enthusiast | AI/ML Explorer</h3>
+<h3 align="center">
+Building data pipelines, distributed systems, and AI infrastructure
+</h3>
+
+<p align="center">
+Data Engineering Intern @ Sigmoid Analytics · CSE @ IIIT Vadodara '26
+</p>
 
 ---
 
 <h2> 👨‍💻 About Me </h2>
 
 🎓 B.Tech in Computer Science at **IIIT Vadodara** (2022 - 2026)  
-💼 Building scalable backend systems and exploring data-driven solutions  
-🔭 Currently diving deep into **Data Engineering**, **GenAI**, and **ML Engineering**  
-💡 Passionate about system design, distributed architectures, and building impactful tech
-
+💼 Data Engineering Intern @ **Sigmoid Analytics** · ex-**Lief Care**  
+🔭 Currently working on **PySpark pipelines**, **Airflow orchestration**, and **GenAI infrastructure**  
+💡 Interested in the stack where data engineering meets AI systems — pipelines, models, production
 
 ---
+
 ### 🛠️ My Technical Toolkit
 
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h4>Frontend Development</h4>
+      <h4>Data Engineering</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+          <img src="https://skillicons.dev/icons?i=py,kafka,docker,aws" />
         </a>
+        <br/>
+        <sub><b>PySpark · Apache Airflow · SQL · ETL/ELT · Databricks</b></sub>
       </p>
     </td>
     <td valign="top" width="50%">
       <h4>Backend Development</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,py" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,fastapi" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Databases & ORMs</h4>
+      <h4>Databases</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,cassandra" />
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
         </a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>DevOps & Tools</h4>
+      <h4>DevOps & Cloud</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,linux,kafka" />
+          <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
    <td valign="top" width="100%" colspan="2">
-    <h4>Data Engineering & ML</h4>
+    <h4>AI / ML</h4>
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
       </a>
+      <br/>
+      <sub><b>GenAI · LLM Pipelines · Oracle OCI AI · NVIDIA Deep Learning</b></sub>
     </p>
     </td>
   </tr>
@@ -66,56 +75,31 @@
 
 ---
 
-### 🌱 Growth & Learning
-<div align="right">
-</div>
-<div align="left" width="100%">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=aws" alt="Cloud & DevOps" width="60" height="60" />
-        <br>
-        <b>Cloud & DevOps</b>
-        <br>
-        <!-- <small>Deepening my knowledge of CI/CD, containerization, and cloud services on GCP & AWS.</small> -->
-      </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="60" height="60" />
-        <br>
-        <b>Next-Gen Backends</b>
-        <br>
-        <!-- <small>Exploring advanced backend frameworks like NextJS for enterprise-level applications.</small> -->
-      </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="60" height="60" />
-        <br>
-        <b>Message Brokers</b>
-        <br>
-        <!-- <small>Learning Apache Kafka for building robust, event-driven microservices.</small> -->
-      </td>
-      <td align="center" width="25%">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="System Design" width="60" height="60" />
-        <br>
-        <b>Advanced System Design</b>
-        <br>
-        <!-- <small>Mastering patterns for building highly scalable and resilient distributed systems.</small> -->
-      </td>
-    </tr>
-  </table>
-</div>
+<h2> 💼 Experience </h2>
 
+**Data Engineering Intern @ [Sigmoid Analytics](https://www.sigmoid.com/)** · Jan 2025 – Present  
+`PySpark` `Apache Airflow` `AWS S3` `SQL`  
+- Engineering PySpark ETL pipelines for large-scale structured datasets in a production environment  
+- Designing and scheduling Airflow DAGs for multi-step ingestion and transformation workflows  
+
+**Software Developer Intern @ [Lief Care](http://home.lief.care/)** · Apr 2025 – Jul 2025  
+`Node.js` `React` `PostgreSQL` `GraphQL` `Docker` `AWS`  
+- Built healthcare dashboards and backend APIs used by nursing teams across UK facilities  
+- Automated deployments via GitHub Actions on AWS EC2/Lambda with CloudWatch monitoring  
 
 ---
 
-<h2> 🚀 My Projects </h2>
+<h2> 🚀 Projects </h2>
 
 <p align="center">
 
-**[Kinetiq](https://github.com/Shahsmit075/Kinetiq)** — Distributed Event Booking System
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
+**[Kinetiq](https://github.com/Shahsmit075/Kinetiq)** — Distributed Ticket Booking System  
+High-throughput event-driven architecture with Kafka, polyglot persistence (PostgreSQL + MongoDB), and sub-50ms read latency.  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**[Koalayst](https://github.com/Shahsmit075/koalayst)** — Monitor, analyze, and receive real-time notifications for your SaaS application directly in Discord.
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+**[Koalayst](https://github.com/Shahsmit075/koalayst)** — Real-time SaaS Event Monitoring  
+Webhook-based event ingestion pipeline with Discord alerting, fine-grained filtering, and RBAC for dev teams.  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
 
 </p>
 
@@ -123,18 +107,18 @@
 
 ---
 
-## 🏆 Certifications & Programs
+## 🏆 Certifications
 
-- Amazon ML Summer School Program 2024: Machine Learning, Python  
-- Oracle Cloud Infrastructure Gen AI Course: Cloud (OCI), Artificial Intelligence  
-- NVIDIA - Fundamentals of Deep Learning: Deep Learning Frameworks, Python  
-- Google Cloud Pathway: Google Cloud Platform (GCP), Cloud Concepts
+- **Oracle Cloud Infrastructure** — AI Foundations Associate · Gen AI Professional  
+- **Amazon ML Summer School** (MLSE'24) — Machine Learning, Python  
+- **NVIDIA** — Fundamentals of Deep Learning  
+- **Google Cloud** — Cloud Skills Boost Pathway  
 
 ---
 
 ### 📫 Let's Connect
 
-Open to collaborating on data engineering projects, backend systems, or AI/ML initiatives.
+Open to **Data Engineering**, **ML Engineering**, or **AI Infrastructure** roles from 2026.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahsmit/">
@@ -145,4 +129,3 @@ Open to collaborating on data engineering projects, backend systems, or AI/ML in
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </p>
-
